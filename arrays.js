@@ -1,6 +1,1 @@
-var ingredient1 = "bread"
-var ingredient2 = "mild cheese"
-var ingredient3 = "sharpe cheese"
-var ingredient4 = "butter"
-var ingredient5 = "tomato"
-var ingredient6 = "garlic"
+var ch
